@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Suspense
+
+```
+<Suspense> is a built-in component for orchestrating async dependencies in a component tree. It can render a loading state while waiting for multiple nested async dependencies down the component tree to be resolved.
+...(Lern More)[https://vuejs.org/guide/built-ins/suspense.html]
+
+```
